@@ -1,9 +1,9 @@
-## Opa eu sou o Gabriel de Souza, mas pode me chamar de Scout 😉
+## Hi, I'm Gabriel de Souza, but you can call me Scout 😉
 
-💻 Dev Junior e amante de programação e tecnologia; <br />
-👔 Trabalhando atualmente na 3RTE; <br />
-🎓 Formado em Informática pra internet, pela Alcides Maya; <br />
-🎹 Tecladista por amor; <br />
+💻 Dev Junior and lover of programming and technology; <br />
+👔 Currently working at 3RTE; <br />
+🎓 Graduated in Computer Science Developer for the Internet, by Alcides Maya; <br />
+🎹 Keyboardist for love; <br />
 🌟 You are my LBV 1806-20. <br />
 
 <br />
