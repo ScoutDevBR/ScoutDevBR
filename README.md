@@ -6,6 +6,10 @@
 🎹 Keyboardist for love; <br />
 🌟 You are my LBV 1806-20. <br />
 
+My Linkedin   <div>
+   <class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabrieljdesouza" data-version="v1"><a    class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabrieljdesouza?trk=profile-badge">Gabriel Jesus de Souza</a>
+  </div>
+
 <br />
 <div align="center">
   <a href="https://github.com/ScoutDevBR">
@@ -13,7 +17,6 @@
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScoutDevBR&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br />
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div
   style="display: inline_block"><br>
   <img align="center" alt="Scout-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
@@ -33,10 +36,4 @@
   <a href="https://www.youtube.com/channel/UCU18MN8SVdc0hpffAEOLRuQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/bieldesouza__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "gabrieljedsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  <div>
-   <class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabrieljdesouza" data-version="v1"><a    class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabrieljdesouza?trk=profile-badge">Gabriel Jesus de Souza</a>
-  </div>
-  
-
 </div>
