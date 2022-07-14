@@ -13,6 +13,7 @@
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScoutDevBR&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br />
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div
   style="display: inline_block"><br>
   <img align="center" alt="Scout-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
